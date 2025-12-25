@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard---Power-BI
-Dashboard Link - <a href="https://drive.google.com/drive/my-drive">View Dashboard </a>
+Dashboard Link - <a href="[https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1PqH7XZc6mW9smozaMLnGGG6OtW4YBZa8/view?usp=sharing)">View Dashboard </a>
 ## Project Overview
 This project involves building an interactive HR analytics dashboard using Power BI for a hypothetical organization to analyze workforce trends and support data-driven decision-making. The dashboard provides insights into employee demographics, attrition patterns, performance ratings, income distribution, and job satisfaction.
 ## Tools & Technologies
