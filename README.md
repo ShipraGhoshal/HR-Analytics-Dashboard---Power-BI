@@ -14,15 +14,15 @@ This project involves building an interactive HR analytics dashboard using Power
 - Average Monthly Income
 - Average Salary Hike Percentage
 ## Key Analysis & Insights
--Department-wise employee distribution to understand workforce composition.
--Attrition analysis by job role and gender to identify high-risk segments.
--Relationship between tenure, income, and attrition to highlight early-stage attrition trends.
--Performance rating analysis across job roles to assess capability vs retention risk.
--Job satisfaction analysis by marital status to understand behavioral patterns.
+- Department-wise employee distribution to understand workforce composition.
+- Attrition analysis by job role and gender to identify high-risk segments.
+- Relationship between tenure, income, and attrition to highlight early-stage attrition trends.
+- Performance rating analysis across job roles to assess capability vs retention risk.
+- Job satisfaction analysis by marital status to understand behavioral patterns.
 ## Business Impact
--Identifies roles and employee segments with higher attrition risk.
--Supports workforce planning, retention strategy, and cost optimization decisions.
--Demonstrates practical application of Power BI for business analytics and reporting.
+- Identifies roles and employee segments with higher attrition risk.
+- Supports workforce planning, retention strategy, and cost optimization decisions.
+- Demonstrates practical application of Power BI for business analytics and reporting.
 ## Note
 This project is based on a hypothetical dataset and is intended to demonstrate analytical and visualization skills using Power BI.
 ## Key Skills Demonstrated
